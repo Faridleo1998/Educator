@@ -1,5 +1,6 @@
 @import url(./variables.css);
 @import url(./animation.css);
+@import url(./media_queries.css);
 
 /* Reset */
 *,
@@ -258,7 +259,7 @@ html {
     );
 }
 
-.home::before {
+.home::after {
     content: "";
     position: absolute;
     top: 100px;
