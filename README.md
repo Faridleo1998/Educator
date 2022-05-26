@@ -1,4 +1,4 @@
-# Anon Ecommerce
+# Educator Landing Page
 
 ![Design preview Anon Ecommerce Website](./img/preview.png)
 
